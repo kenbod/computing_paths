@@ -1,14 +1,6 @@
-# Computing at CU
+# Computing, Data, and Technology at CU
 
-yadda yadda yadda
-
-*  this is a list
-   * ffff
-   * yadda
-*  next bullet
-
-1. a numbered list
-   1. a sub bullet
-2. second item
-
+<p align="center">
+  **488,500** new jobs in computing and data expected through 2024
+</p>
 
