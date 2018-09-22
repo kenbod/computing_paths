@@ -12,5 +12,5 @@
     * PhD
     
 
--insert photo here-
+![Overview of CS Degree Program](https://kenbod.github.io/computing_paths/images/CS.png "What is CS")
 
