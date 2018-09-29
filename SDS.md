@@ -1,12 +1,25 @@
-# Statistics + Data Science 
+#  [Statistics and Data Science (BA)](https://kenbod.github.io/computing_paths/SDS.html) 
 
-Emphasis on Advanced Statistics and Modeling 
+<p style="float: right;">
+  <img src="https://kenbod.github.io/computing_paths/images/SDS.png" alt="Statistics and Data Science">
+</p>
 
-* Bachelor of Arts in Statistics and Data Science
+## Description
 
-    * Flexible, interdisciplinary degree
-    * Prepares students for a wide range of careers. For example, Statistics, data analytics/data science, business, engineering, economics, public health, epidemiology.
-    * Apply statistics and data science to solve real problems with Applied Math's Laboratory for Interdisciplinary Statistical Analysis (LISA).
-    
-    
-        
+Learn foundational tools to analyze data, including complex and high dimensional data sets while also gaining knowledge in mathematics, statistics and data science that are important to the analysis of data. Gain professional skills in communication, collaboration and ethics.
+
+## Sample courses
+
+* Applied Regression
+* Statistical Collaboration
+* Matrix Methods and Applications
+* Applied Probability
+
+## Possible Careers
+
+* Statistician
+* Data analyst
+* Database administrator
+* Data scientist
+* Business analyst
+
