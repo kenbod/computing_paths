@@ -1,6 +1,6 @@
 # [Information Science (BS)](https://kenbod.github.io/computing_paths/IS.html)
 
-<p style="float: right; margin: 0 0 0 250; border: 4px solid black;">
+<p style="float: right; padding: 0 0 0 250; border: 4px solid black;">
   <img src="https://kenbod.github.io/computing_paths/images/InformationScience.png" alt="Information Science">
 </p>
 
