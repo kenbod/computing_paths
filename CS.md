@@ -1,6 +1,6 @@
 # [Computer Science (BS/BA)](https://kenbod.github.io/computing_paths/CS.html) 
 
-<p style="float: right; padding: 0 0 0 250;">
+<p style="float: right; margin: 0 0 0 250;">
   <img src="https://kenbod.github.io/computing_paths/images/Code.png" alt="Computer Science">
 </p>
 
