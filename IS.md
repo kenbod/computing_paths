@@ -1,11 +1,29 @@
 # Information Science
 
-Explore the human side of data.
+[Information Science (BS)](https://kenbod.github.io/computing_paths/IS.html)
+
+![Information Science](https://kenbod.github.io/computing_paths/images/InformationScience.png "Information Science")
 
 ## **Love people? Love Technology?** 
+
 You'll fit in perfectly.
 
-**Emphasis on Solving Societal Problems with Data**
+**Explore the human side of data.** Research how people and organizations interact with technology and information and acquire skills in multiple forms of information analysis, from big data to small data, from quantitative to qualitative, from data exploration to information exposition. Master human-centered design and learn computing skills you need to craft solutions and evaluate their use
+
+## Sample courses
+
+* Information Ecosystems
+* Online Fandom
+* Designing for Creativity and Learning
+* Digital Identity
+
+## Possible Careers
+
+* User experience designer
+* Intelligence analyst
+* Data scientist and analyst
+* Social media strategist
+* Information visualization specialist
 
 ### Analyze. Design. Inform
 
