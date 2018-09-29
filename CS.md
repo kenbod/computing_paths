@@ -6,7 +6,7 @@
   <img src="https://kenbod.github.io/computing_paths/images/Code.png" alt="Computer Science">
 </p>
 
-Emphasizes knowledge and awareness of computing at all levels: circuits, operating systems, programming languages, theoretical and mathematical aspects of computing, interdependence of software and hardware, large-scale software production
+Emphasizes knowledge and awareness of computing at all levels: operating systems, programming languages, theoretical and mathematical aspects of computing, interdependence of software and hardware, large-scale software production, artificial intelligence
 
 ## Sample courses
 
