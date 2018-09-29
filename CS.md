@@ -3,9 +3,8 @@
 [Computer Science (BS/BA)](https://kenbod.github.io/computing_paths/CS.html) 
 
 <p style="float: left;">
-  ![Computer Science](https://kenbod.github.io/computing_paths/images/Code.png "Computer Science")
+  <img src="https://kenbod.github.io/computing_paths/images/Code.png" alt="Computer Science">
 </p>
-<br>
 
 Emphasizes knowledge and awareness of computing at all levels: circuits, operating systems, programming languages, theoretical and mathematical aspects of computing, interdependence of software and hardware, large-scale software production
 
