@@ -1,8 +1,6 @@
 # Computing, Data, and Technology at CU
 
-<p align="center">
-   Want to be in computing? CU is the place to be!
-</p>
+<h2 style="align: center;">Want to be in computing? CU is the place to be!</h2>
 
 ## Program Overview
 
