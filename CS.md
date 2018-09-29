@@ -8,7 +8,9 @@
 </div>
 {:/}
 
+<br>
 Emphasizes knowledge and awareness of computing at all levels: circuits, operating systems, programming languages, theoretical and mathematical aspects of computing, interdependence of software and hardware, large-scale software production
+
 
 ## Sample courses
 
