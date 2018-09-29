@@ -4,9 +4,7 @@
   <img src="https://kenbod.github.io/computing_paths/images/InformationScience.png" alt="Information Science">
 </p>
 
-## **Love people? Love Technology?** 
-
-You'll fit in perfectly.
+**Love people? Love Technology?** You'll fit in perfectly.
 
 **Explore the human side of data.** Research how people and organizations interact with technology and information and acquire skills in multiple forms of information analysis, from big data to small data, from quantitative to qualitative, from data exploration to information exposition. Master human-centered design and learn computing skills you need to craft solutions and evaluate their use
 
@@ -24,6 +22,10 @@ You'll fit in perfectly.
 * Data scientist and analyst
 * Social media strategist
 * Information visualization specialist
+
+<hr>
+
+Edit content below to fit into the above template.
 
 ### Analyze. Design. Inform
 
