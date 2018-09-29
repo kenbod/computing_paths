@@ -1,6 +1,4 @@
-# Information Science
-
-[Information Science (BS)](https://kenbod.github.io/computing_paths/IS.html)
+# [Information Science (BS)](https://kenbod.github.io/computing_paths/IS.html)
 
 <p style="float: left; padding: 0 250 0 0;">
   <img src="https://kenbod.github.io/computing_paths/images/InformationScience.png" alt="Information Science">
