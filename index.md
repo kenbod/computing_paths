@@ -1,7 +1,7 @@
 # Computing, Data, and Technology at CU
 
 <p align="center">
-   488,500 new jobs in computing and data expected through 2024
+   Want to be in computing? CU is the place to be!
 </p>
 
 ## Program Overview
