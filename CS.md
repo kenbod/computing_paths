@@ -2,7 +2,8 @@
 
 [Computer Science (BS/BA)](https://kenbod.github.io/computing_paths/CS.html) 
 
-{::nomarkdown}<div style="float: left;">
+{::nomarkdown}
+<div style="float: left;">
   ![Computer Science](https://kenbod.github.io/computing_paths/images/Code.png "Computer Science")
 </div>
 {:/}
