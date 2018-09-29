@@ -1,8 +1,6 @@
 # Computing, Data, and Technology at CU
 
-<h2 style="align: center;">Want to be in computing? CU is the place to be!</h2>
-
-## Program Overview
+## Want to be in computing? CU is the place to be!
 
 | **Program** | [Computer Science (BS/BA)](https://kenbod.github.io/computing_paths/CS.html) | [Information Science (BS)](https://kenbod.github.io/computing_paths/IS.html) | [Statistics and Data Science (BA)](https://kenbod.github.io/computing_paths/SDS.html) | [Technology, Arts, and Media (BS)](https://kenbod.github.io/computing_paths/TAM.html) |
 |:-----------|:-----------|:------------|:------------|:------------|
